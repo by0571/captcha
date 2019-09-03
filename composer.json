@@ -1,6 +1,6 @@
 {
     "name": "by0571/captcha",
-    "description": "this is the captcha create by by0571.com",
+    "description": "奔跃软件验证码插件，基于ThinkPHP5、topthink/think-captcha端Cache版，解决API调用跨域问题。",
     "authors": [
         {
             "name": "yjl",
