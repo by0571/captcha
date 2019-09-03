@@ -11,7 +11,7 @@
 
 namespace by0571\captcha;
 
-use by0571\Config;
+use think\Config;
 
 class CaptchaController
 {
